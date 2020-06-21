@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mosaririri/study-typescript-by-udemy/issues"
   },
-  "homepage": "https://github.com/mosaririri/study-typescript-by-udemy#readme"
+  "homepage": "https://github.com/mosaririri/study-typescript-by-udemy#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
